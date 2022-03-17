@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project WPI_TalonFX-SixWheel)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/arthongreenspan/Desktop/Warlords2/frc2022-allianceAutos/sixWheelDrivetrain/WPI_TalonFX-SixWheel/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/arthongreenspan/Desktop/Warlords2/frc2022-allianceAutos/sixWheelDrivetrain/WPI_TalonFX-SixWheel/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/arthongreenspan/Desktop/Warlords2/frc2022-allianceAutos/sixWheelDrivetrain/WPI_TalonFX-SixWheel/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
